@@ -537,6 +537,7 @@
 				D68FD74E1F6B4822007F2025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D68FD74F1F6B4822007F2025 /* Build configuration list for PBXNativeTarget "mapKitGameTests" */ = {
 			isa = XCConfigurationList;
@@ -545,6 +546,7 @@
 				D68FD7511F6B4822007F2025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D68FD7521F6B4822007F2025 /* Build configuration list for PBXNativeTarget "mapKitGameUITests" */ = {
 			isa = XCConfigurationList;
@@ -553,6 +555,7 @@
 				D68FD7541F6B4822007F2025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
